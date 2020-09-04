@@ -2,7 +2,7 @@ dist: bionic
 
 env:
   global:
-    - IMAGE_NAME=pkskubeflow/ml-pipeline-viewer-crd-controlle:0.2.5
+    - IMAGE_NAME=pkskubeflow/ml-pipeline-viewer-crd-controller:0.2.5
     - CODE_TAG=master
 
 arch:
